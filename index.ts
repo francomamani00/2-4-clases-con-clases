@@ -71,5 +71,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("hola soy el commit 2")
 }
 main();
